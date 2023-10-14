@@ -57,7 +57,7 @@ public class TasksTest {
 
     @Test
     public void meetingMatchesProjectIfTrueTest() {
-        Meeting meeting = new Meeting( 555,
+        Meeting meeting = new Meeting(555,
                 "Выкатка 3й версии приложения",
                 "Приложение НетоБанка",
                 "Во вторник после обеда"
